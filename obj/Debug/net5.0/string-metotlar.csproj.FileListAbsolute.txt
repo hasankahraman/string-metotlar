@@ -1,0 +1,16 @@
+D:\patika\practises\string-metotlar\bin\Debug\net5.0\string-metotlar.exe
+D:\patika\practises\string-metotlar\bin\Debug\net5.0\string-metotlar.deps.json
+D:\patika\practises\string-metotlar\bin\Debug\net5.0\string-metotlar.runtimeconfig.json
+D:\patika\practises\string-metotlar\bin\Debug\net5.0\string-metotlar.runtimeconfig.dev.json
+D:\patika\practises\string-metotlar\bin\Debug\net5.0\string-metotlar.dll
+D:\patika\practises\string-metotlar\bin\Debug\net5.0\ref\string-metotlar.dll
+D:\patika\practises\string-metotlar\bin\Debug\net5.0\string-metotlar.pdb
+D:\patika\practises\string-metotlar\obj\Debug\net5.0\string-metotlar.csproj.AssemblyReference.cache
+D:\patika\practises\string-metotlar\obj\Debug\net5.0\string-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\patika\practises\string-metotlar\obj\Debug\net5.0\string-metotlar.AssemblyInfoInputs.cache
+D:\patika\practises\string-metotlar\obj\Debug\net5.0\string-metotlar.AssemblyInfo.cs
+D:\patika\practises\string-metotlar\obj\Debug\net5.0\string-metotlar.csproj.CoreCompileInputs.cache
+D:\patika\practises\string-metotlar\obj\Debug\net5.0\string-metotlar.dll
+D:\patika\practises\string-metotlar\obj\Debug\net5.0\ref\string-metotlar.dll
+D:\patika\practises\string-metotlar\obj\Debug\net5.0\string-metotlar.pdb
+D:\patika\practises\string-metotlar\obj\Debug\net5.0\string-metotlar.genruntimeconfig.cache
